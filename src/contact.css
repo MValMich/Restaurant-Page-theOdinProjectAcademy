@@ -1,0 +1,17 @@
+/* CONTACTO.CSS */
+.div-contacto {
+    border: solid 1px;
+    padding: 20px;
+    margin: 20px;
+    background: radial-gradient(blue, white, black);
+    border-radius: 50px;
+}
+
+.h1-contacto {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p-contacto {
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

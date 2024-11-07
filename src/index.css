@@ -1,0 +1,44 @@
+/* INDEX.css */
+body {
+    background: linear-gradient(90deg, white, yellow, orange, red, black);
+    background: url('./img/background-original.jpg');
+}
+
+header {
+    width: 95%; height: auto;
+    /* border: solid 1px; */
+    display: flex; justify-content: center;
+    margin: 20px;
+}
+
+nav {
+    width: 80%;
+    height: auto;
+    /* border: solid 1px; */
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+button {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: x-large;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 50px;
+    background: radial-gradient(grey, rgba(255, 255, 255, 0.904), blue);
+    color: rgb(3, 18, 57);;
+}
+
+#div-container {
+    width: 80%; 
+    height: auto; 
+    /* border: solid 1px; */
+    margin: auto;
+    padding: 20px;
+    justify-content: space-between;
+    justify-items: center;
+    background:radial-gradient(blue, white, rgb(7, 7, 183));
+    border-radius: 50px;
+}
